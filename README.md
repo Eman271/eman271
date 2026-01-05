@@ -55,12 +55,12 @@ My toolkit for classes, side projects, and experiments:
 
 ---
 
-## 🤝 Let’s Team Up!
+## 🤝 Connect With Me
 
-Open to collabs on student projects, open source, or just geeking out over code.
+<div align="center">
 
-<p align="left">
-  [![GitHub](https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eman271)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanfatima786)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feman8558@gmail.com)
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eman271)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanfatima786)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feman8558@gmail.com)
+
+</div>
