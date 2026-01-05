@@ -60,7 +60,7 @@ My toolkit for classes, side projects, and experiments:
 Open to collabs on student projects, open source, or just geeking out over code.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/emanfatima786">LinkedIn</a> •
   <a href="https://twitter.com/YOUR_TWITTER">Twitter</a> •
   <a href="https://t.me/YOUR_TELEGRAM">Telegram</a> •
   <a href="mailto:your.email@example.com">Email</a>
