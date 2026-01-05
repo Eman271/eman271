@@ -60,8 +60,7 @@ My toolkit for classes, side projects, and experiments:
 Open to collabs on student projects, open source, or just geeking out over code.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/emanfatima786">LinkedIn</a> •
-  <a href="https://twitter.com/YOUR_TWITTER">Twitter</a> •
-  <a href="https://t.me/YOUR_TELEGRAM">Telegram</a> •
-  <a href="mailto:your.email@example.com">Email</a>
+  [![GitHub](https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eman271)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanfatima786)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feman8558@gmail.com)
 </p>
