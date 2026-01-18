@@ -29,10 +29,10 @@ My toolkit for classes, side projects, and experiments:
 ## 📊 GitHub Stats & Grind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eman271&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman271&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
